@@ -1469,7 +1469,7 @@ const ROBOTS = [
     {
         "id": null,
         "name": "Shoggoth",
-        "faction": "EvoLife",
+        "faction": "Evolife",
         "specializations": [
             "Damage Dealer"
         ],
