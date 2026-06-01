@@ -1465,6 +1465,38 @@ const ROBOTS = [
         },
         "image": "https://api.warrobots.com/storage/content/pictures/1381/content_news_bckg_120_Vector_Teaser.jpg",
         "icon": "https://cdn.discordapp.com/attachments/944944493671641098/1497316733453861105/vector.png"
+    },
+    {
+        "id": null,
+        "name": "Shoggoth",
+        "faction": "EvoLife",
+        "specializations": [
+            "Damage Dealer"
+        ],
+        "tier": 4,
+        "hardpoints": {
+            "light": 0,
+            "medium": 2,
+            "heavy": 2
+        },
+        "image": "https://static.wikia.nocookie.net/walking-war-robots/images/c/c3/Update_12.1_bot.jpg",
+        "icon": "https://pbs.twimg.com/media/HHzZz2OXAAE54IS.jpg"
+    },
+    {
+        "id": null,
+        "name": "Vulcan",
+        "faction": "Defense and Security<br>Conglomerate",
+        "specializations": [
+            "Damage Dealer"
+        ],
+        "tier": 4,
+        "hardpoints": {
+            "light": 2,
+            "medium": 3,
+            "heavy": 0
+        },
+        "image": "",
+        "icon": ""
     }
 ];
 
