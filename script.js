@@ -1495,8 +1495,8 @@ const ROBOTS = [
             "medium": 3,
             "heavy": 0
         },
-        "image": "",
-        "icon": ""
+        "image": "https://cdn.discordapp.com/attachments/692711959673569280/1513545647389806632/1080x1080_7.png",
+        "icon": "https://cdn.discordapp.com/attachments/692711959673569280/1513545647389806632/1080x1080_7.png"
     }
 ];
 
