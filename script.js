@@ -1495,8 +1495,8 @@ const ROBOTS = [
             "medium": 3,
             "heavy": 0
         },
-        "image": "https://cdn.discordapp.com/attachments/692711959673569280/1513545647389806632/1080x1080_7.png",
-        "icon": "https://cdn.discordapp.com/attachments/692711959673569280/1513545647389806632/1080x1080_7.png"
+        "image": "https://cdn.discordapp.com/attachments/692711959673569280/1513545647389806632/1080x1080_7.png?ex=6a281eba&is=6a26cd3a&hm=a8a26eb2c8b4292bbd004d0ebb857d45b615a324bebe61bae335312371a9ad8c&",
+        "icon": "https://cdn.discordapp.com/attachments/692711959673569280/1513545647389806632/1080x1080_7.png?ex=6a281eba&is=6a26cd3a&hm=a8a26eb2c8b4292bbd004d0ebb857d45b615a324bebe61bae335312371a9ad8c&"
     }
 ];
 
